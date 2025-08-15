@@ -1,0 +1,5 @@
+hello_world - args: (), kwargs: {}, result: Hello World
+summator - args: (2, 2), kwargs: {}, result: 4
+div - args: (6, 2), kwargs: {}, result: 3.0
+summator - args: (4.3,), kwargs: {'b': 2.2}, result: 6.5
+summator - args: (), kwargs: {'a': 0, 'b': 0}, result: 0
