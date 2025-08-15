@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+fake_headers
+selenium
+webdriver-manager
+datetime
